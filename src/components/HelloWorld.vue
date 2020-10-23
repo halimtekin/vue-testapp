@@ -13,7 +13,6 @@
     <span>Multiline message is:</span>
     <p style="white-space: pre-line;">{{ message }}</p>
     <br />
-    <textarea v-model="message" placeholder="add multiple lines"></textarea>
     <h2>A Vue app publishing on a Vercel</h2>
     <p>Vue framework is javascript framework. You can do this anything.</p>
     <h3>Installed CLI Plugins</h3>
