@@ -10,8 +10,6 @@
         rel="noopener"
       >vue-cli documentation</a>.
     </p>
-    <span>Multiline message is:</span>
-    <p style="white-space: pre-line;">{{ message }}</p>
     <br />
     <h2>A Vue app publishing on a Vercel</h2>
     <p>Vue framework is javascript framework. You can do this anything.</p>
