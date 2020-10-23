@@ -14,9 +14,9 @@
     <p style="white-space: pre-line;">{{ message }}</p>
     <br />
     <textarea v-model="message" placeholder="add multiple lines"></textarea>
-    <h2>Burasıda benim eklediğim bölüm olsun, ee bizim de çorbada tuzumuz bulunsun değil mi?</h2>
-    <p>Birazda paragraf yazıkmı bu iş tamamdır. Saçma da olsa yazacaz artık nabalım :D</p>
-    <h3>Yüklenmiş CLI Eklentileri</h3>
+    <h2>A Vue app publishing on a Vercel</h2>
+    <p>Vue framework is javascript framework. You can do this anything.</p>
+    <h3>Installed CLI Plugins</h3>
     <ul>
       <li>
         <a
